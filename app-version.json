@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.4.0",
-  "releaseUrl": "https://github.com/ikki0304/champions-dex/releases",
-  "notes": "Champions Dex 1.4.0 adds the live Team Codes section with Pokémon + Mega Stone filtering, plus in-app update awareness. This file is the sample manifest: publish the same shape as app-version.json in the public champions-dex-data repo and bump latestVersion there when a new APK release ships."
+  "latestVersion": "1.4.17",
+  "releaseUrl": "https://github.com/ikki0304/champions-dex/releases/tag/v1.4.17",
+  "notes": "Champions Dex 1.4.0 (APK v1.4.17) adds the live Team Codes section with Pokemon + Mega Stone filtering, one-tap copy, and in-app update awareness."
 }
