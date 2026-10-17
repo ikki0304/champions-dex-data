@@ -1,0 +1,6189 @@
+{
+ "version": "1.4.0-seed",
+ "updatedAt": "2026-10-17T14:00:00+05:30",
+ "regulationCurrent": "M-C",
+ "teams": [
+  {
+   "code": "TB0C85121Q",
+   "title": "Kiran Singh \u2014 VR October Challenge #2",
+   "creator": "Kiran Singh",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Garchomp Z",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Charizard Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Grimmsnarl",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Venusaur",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "VR October Challenge #2",
+    "date": "2026-10-11",
+    "placing": "Champion"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "9NNN3N8A4G",
+   "title": "Eric Rios \u2014 Frankfurt Regional Championships",
+   "creator": "Eric Rios",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Garchomp Z",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Volcarona",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Frankfurt Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Champion"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "VE6L0UD1B2",
+   "title": "Sebastian Liu Li \u2014 Frankfurt Regional Championships",
+   "creator": "Sebastian Liu Li",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Garchomp Z",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sylveon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Farigiraf",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Torkoal",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Frankfurt Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Finalist"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "1PAN6UVF5B",
+   "title": "Aditya Subramanian \u2014 Baltimore Regional Championships",
+   "creator": "Aditya Subramanian",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Politoed",
+     "item": "Mystic Water",
+     "ability": "Drizzle",
+     "moves": [
+      "Weather Ball",
+      "Muddy Water",
+      "Ice Beam",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Mega Golisopod",
+     "item": "Golisopite",
+     "ability": "Emergency Exit",
+     "moves": [
+      "Leech Life",
+      "Iron Head",
+      "Drill Run",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Archaludon",
+     "item": "Leftovers",
+     "ability": "Stamina",
+     "moves": [
+      "Dragon Pulse",
+      "Electro Shot",
+      "Snarl",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Farigiraf",
+     "item": "Sitrus Berry",
+     "ability": "Armor Tail",
+     "moves": [
+      "Psychic",
+      "Grass Knot",
+      "Trick Room",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Mega Charizard Y",
+     "item": "Charizardite Y",
+     "ability": "Blaze",
+     "moves": [
+      "Heat Wave",
+      "Weather Ball",
+      "Hurricane",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Grimmsnarl",
+     "item": "Light Clay",
+     "ability": "Prankster",
+     "moves": [
+      "Spirit Break",
+      "Reflect",
+      "Light Screen",
+      "Parting Shot"
+     ]
+    }
+   ],
+   "event": {
+    "name": "Baltimore Regional Championships",
+    "date": "2026-09-22",
+    "placing": "Finalist"
+   },
+   "source": {
+    "name": "Victory Road + PokeFeed",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-22",
+   "lastSeen": "2026-10-08",
+   "dataTier": "A"
+  },
+  {
+   "code": "7F8MM0LD1F",
+   "title": "Oleksandr Polishchuk \u2014 Alpensee Tour #74",
+   "creator": "Oleksandr Polishchuk",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Gengar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Snorlax",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Scrafty",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Dragonite",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Alpensee Tour #74",
+    "date": "2026-09-10",
+    "placing": "Champion"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-10",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "U7C92RMPR1",
+   "title": "Ryan Loseto \u2014 r/VGC Regulation M-C Kickoff Cup",
+   "creator": "Ryan Loseto",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Hisuian Arcanine",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "r/VGC Regulation M-C Kickoff Cup",
+    "date": "2026-09-09",
+    "placing": "Champion"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-09",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "9979JV2YPM",
+   "title": "JJ Miller \u2014 Louisville Regional Championships",
+   "creator": "JJ Miller",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Staraptor",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Swampert",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sinistcha",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 4"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "VQCP2UJ670",
+   "title": "Brian Hough \u2014 Louisville Regional Championships",
+   "creator": "Brian Hough",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Dragonite",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Garchomp",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 8"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "K81FNUHF62",
+   "title": "Sahil Shaikh \u2014 VR October Challenge #2",
+   "creator": "Sahil Shaikh",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Hisuian Arcanine",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Milotic",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "VR October Challenge #2",
+    "date": "2026-10-11",
+    "placing": "Top 8"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "1TK6W03RVK",
+   "title": "Cary D\u2019Ortona \u2014 Louisville Regional Championships",
+   "creator": "Cary D\u2019Ortona",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Charizard Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Garchomp",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Whimsicott",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 16"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "JC77DNAD2P",
+   "title": "Ethan Rauchwerk \u2014 Louisville Regional Championships",
+   "creator": "Ethan Rauchwerk",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Froslass",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Armarouge",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Milotic",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 32"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "QPUGS5RAMA",
+   "title": "Jacob Acker \u2014 Louisville Regional Championships",
+   "creator": "Jacob Acker",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Delphox",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Dragonite",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Garchomp",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 32"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "R2RWRDXEUF",
+   "title": "Josiah Kim \u2014 Louisville Regional Championships",
+   "creator": "Josiah Kim",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Charizard Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Aerodactyl",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Farigiraf",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sylveon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Garchomp",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 32"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "GX6HA3X08F",
+   "title": "Matthew Woodruff \u2014 Louisville Regional Championships",
+   "creator": "Matthew Woodruff",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Pyroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Garchomp Z",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Torkoal",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Farigiraf",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sylveon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 32"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "4UC8YMQRSL",
+   "title": "Joey McGinley \u2014 Louisville Regional Championships",
+   "creator": "Joey McGinley",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Charizard Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Aerodactyl",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Farigiraf",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sylveon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Garchomp",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 32"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "M9C6GW0YJ4",
+   "title": "Ryne Garrett \u2014 Louisville Regional Championships",
+   "creator": "Ryne Garrett",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Golisopod",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Raichu X",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 64"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "41EGDYHJ6K",
+   "title": "Elijah Peeples \u2014 Louisville Regional Championships",
+   "creator": "Elijah Peeples",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Charizard Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Farigiraf",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Venusaur",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Watchog",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Garchomp",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 64"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "6UTUGC9ET3",
+   "title": "Becca Gammage \u2014 Louisville Regional Championships",
+   "creator": "Becca Gammage",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Golisopod",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 64"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "VG08GAG6UF",
+   "title": "Pranav Sharma \u2014 Louisville Regional Championships",
+   "creator": "Pranav Sharma",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Golisopod",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Garchomp Z",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Politoed",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Farigiraf",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 64"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "NM8H38LF1P",
+   "title": "Connor Sparks \u2014 Louisville Regional Championships",
+   "creator": "Connor Sparks",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Dragonite",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Primarina",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 64"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "BGA5A31VJX",
+   "title": "Santino Tarquinio \u2014 Louisville Regional Championships",
+   "creator": "Santino Tarquinio",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Gengar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Annihilape",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Politoed",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kommo-o",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 64"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "DW4QTDPM0J",
+   "title": "Alex Archambault \u2014 Louisville Regional Championships",
+   "creator": "Alex Archambault",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Froslass",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Hisuian Arcanine",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kommo-o",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 64"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "TC3QKLUP3B",
+   "title": "Jimmy Friedle \u2014 Louisville Regional Championships",
+   "creator": "Jimmy Friedle",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Camerupt",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Gardevoir",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Farigiraf",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 64"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "6BPFLQ63KW",
+   "title": "Lev Shkolnikov \u2014 Louisville Regional Championships",
+   "creator": "Lev Shkolnikov",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Delphox",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Dragonite",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 128"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "A78VNCAMXA",
+   "title": "Lauri Halonen \u2014 Louisville Regional Championships",
+   "creator": "Lauri Halonen",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Volcarona",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 128"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "XMBHK6NCG3",
+   "title": "Matt Schmucker \u2014 Louisville Regional Championships",
+   "creator": "Matt Schmucker",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Aerodactyl",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 128"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "C5J7JNM08S",
+   "title": "Christian Riewerts \u2014 Louisville Regional Championships",
+   "creator": "Christian Riewerts",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Staraptor",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Primarina",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Hisuian Arcanine",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 128"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "E9FSGE1E20",
+   "title": "Ryan Reagan \u2014 Louisville Regional Championships",
+   "creator": "Ryan Reagan",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Golisopod",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Farigiraf",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 128"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "1L43FDTM2U",
+   "title": "Anthony Londergan \u2014 Louisville Regional Championships",
+   "creator": "Anthony Londergan",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Volcarona",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 128"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "5K16F4SV1X",
+   "title": "Lake Spohn \u2014 Louisville Regional Championships",
+   "creator": "Lake Spohn",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Golisopod",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Garchomp Z",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 128"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "PK3AF17W7Y",
+   "title": "Garrett Wilson \u2014 Louisville Regional Championships",
+   "creator": "Garrett Wilson",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Charizard Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Metagross",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Milotic",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Dragapult",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 128"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "1RQ00RK04D",
+   "title": "James Messerly \u2014 Louisville Regional Championships",
+   "creator": "James Messerly",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Staraptor",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Hisuian Arcanine",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Milotic",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Louisville Regional Championships",
+    "date": "2026-10-11",
+    "placing": "Top 256"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-11",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "5R8L6GD1TA",
+   "title": "Yvar Vlieger \u2014 Frankfurt Regional Championships",
+   "creator": "Yvar Vlieger",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Charizard Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Meowstic",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kommo-o",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Frankfurt Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 4"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "E4RSMQ5WGV",
+   "title": "Eden Batchelor \u2014 Frankfurt Regional Championships",
+   "creator": "Eden Batchelor",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Dragonite",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Frankfurt Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 4"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "0RSMBR6WR8",
+   "title": "Jude Lee \u2014 Brisbane Regional Championships",
+   "creator": "Jude Lee",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Garchomp",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Brisbane Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 4"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "NY9XG3PEHS",
+   "title": "Joshua Sutherland-Smith \u2014 Brisbane Regional Championships",
+   "creator": "Joshua Sutherland-Smith",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Brisbane Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 4"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "NXKJR60G45",
+   "title": "Juan Manuel Odriozola \u2014 Frankfurt Regional Championships",
+   "creator": "Juan Manuel Odriozola",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Charizard Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Venusaur",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Toxapex",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sylveon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Garchomp",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Frankfurt Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 8"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "DHLDFMXF8J",
+   "title": "Valentijn Visser \u2014 Frankfurt Regional Championships",
+   "creator": "Valentijn Visser",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Glimmora",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Froslass",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Volcarona",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Frankfurt Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 8"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "2X8YA35UHA",
+   "title": "Keigo Tanizawa \u2014 Brisbane Regional Championships",
+   "creator": "Keigo Tanizawa",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Garchomp Z",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Volcarona",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Brisbane Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 8"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "ETG9RJHL14",
+   "title": "Koen van Cann \u2014 Frankfurt Regional Championships",
+   "creator": "Koen van Cann",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Hisuian Arcanine",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Frankfurt Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 16"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "P7HUFL6SXM",
+   "title": "Finn Seipold \u2014 Frankfurt Regional Championships",
+   "creator": "Finn Seipold",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Golisopod",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Farigiraf",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Frankfurt Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 16"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "S0W7F1F1HU",
+   "title": "Arthur Glandier \u2014 Frankfurt Regional Championships",
+   "creator": "Arthur Glandier",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Staraptor",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Hisuian Arcanine",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Milotic",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Frankfurt Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 32"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "XSG89M6E4P",
+   "title": "Florian Temme \u2014 Frankfurt Regional Championships",
+   "creator": "Florian Temme",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Froslass",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Hisuian Arcanine",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Frankfurt Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 32"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "4JPCDSBRGH",
+   "title": "Christopher Gibson \u2014 Brisbane Regional Championships",
+   "creator": "Christopher Gibson",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Baxcalibur",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Volcarona",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Ceruledge",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Brisbane Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 32"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "EX9XBFDRDH",
+   "title": "Drew Bliss \u2014 Brisbane Regional Championships",
+   "creator": "Drew Bliss",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Gengar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Starmie",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Brisbane Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 32"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "FMNPN7T0NJ",
+   "title": "Dylan Mak \u2014 Brisbane Regional Championships",
+   "creator": "Dylan Mak",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Staraptor",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Ceruledge",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Milotic",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Brisbane Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 32"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "H8VRBRFXEC",
+   "title": "Nick Holmer \u2014 Frankfurt Regional Championships",
+   "creator": "Nick Holmer",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Kangaskhan",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Mawile",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Grapploct",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Farigiraf",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Frankfurt Regional Championships",
+    "date": "2026-09-26",
+    "placing": "Top 64"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "X9L10UL8JM",
+   "title": "Lorenzo Arce \u2014 Baltimore Regional Championships",
+   "creator": "Lorenzo Arce",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Staraptor",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Ceruledge",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Milotic",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Baltimore Regional Championships",
+    "date": "2026-09-22",
+    "placing": "Top 8"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-22",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "U9LAHRDYTD",
+   "title": "Billy Helm \u2014 Baltimore Regional Championships",
+   "creator": "Billy Helm",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Gengar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Golisopod",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Politoed",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Baltimore Regional Championships",
+    "date": "2026-09-22",
+    "placing": "Top 16"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-22",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "GBPUBW7UK9",
+   "title": "Justin Tang \u2014 Baltimore Regional Championships",
+   "creator": "Justin Tang",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Delphox",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sinistcha",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Baltimore Regional Championships",
+    "date": "2026-09-22",
+    "placing": "Top 16"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-22",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "MHD8VN8CXC",
+   "title": "Dylan Matthews \u2014 Baltimore Regional Championships",
+   "creator": "Dylan Matthews",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Metagross",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Altaria",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Hisuian Arcanine",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Dragapult",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Milotic",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Baltimore Regional Championships",
+    "date": "2026-09-22",
+    "placing": "Top 16"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-22",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "4EYRS19FTW",
+   "title": "Brennan Burkhardt \u2014 Baltimore Regional Championships",
+   "creator": "Brennan Burkhardt",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Tyranitar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Excadrill",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sinistcha",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Primarina",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Baltimore Regional Championships",
+    "date": "2026-09-22",
+    "placing": "Top 32"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-22",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "JTJQ3LCV5K",
+   "title": "Mason Cutler \u2014 Baltimore Regional Championships",
+   "creator": "Mason Cutler",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Pyroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Gardevoir",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kommo-o",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Whimsicott",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Baltimore Regional Championships",
+    "date": "2026-09-22",
+    "placing": "Top 32"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-22",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "QMNWBAYCNN",
+   "title": "Michael Maus \u2014 Baltimore Regional Championships",
+   "creator": "Michael Maus",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Charizard Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Noivern",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Garchomp",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Venusaur",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Baltimore Regional Championships",
+    "date": "2026-09-22",
+    "placing": "Top 64"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-22",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "KQK6SB39AJ",
+   "title": "Rinya Kobayashi \u2014 Season M-6",
+   "creator": "Rinya Kobayashi",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Charizard Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Garchomp Z",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Venusaur",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Grimmsnarl",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Season M-6",
+    "date": "2026-10-07",
+    "placing": "13th"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "K53XNDL2UR",
+   "title": "Kaito Arii \u2014 Season M-6",
+   "creator": "Kaito Arii",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Golisopod",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Grimmsnarl",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Garchomp",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Season M-6",
+    "date": "2026-10-07",
+    "placing": "19th"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "N2RYASNLNJ",
+   "title": "Victor Matos \u2014 Season M-6",
+   "creator": "Victor Matos",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Season M-6",
+    "date": "2026-10-07",
+    "placing": "21st"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "7D9QJMW1KN",
+   "title": "Michael Uko \u2014 Season M-6",
+   "creator": "Michael Uko",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Dragonite",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Season M-6",
+    "date": "2026-10-07",
+    "placing": "53rd"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "BNXRLCF8C6",
+   "title": "Teyon \u2014 Season M-6",
+   "creator": "Teyon",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Froslass",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Lucario Z",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Garchomp",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Season M-6",
+    "date": "2026-10-07",
+    "placing": "65th"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "1T1M4UQVCF",
+   "title": "Takuya Morii \u2014 Season M-6",
+   "creator": "Takuya Morii",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Whimsicott",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Ninetales",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Glimmora",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Season M-6",
+    "date": "2026-10-07",
+    "placing": "81st"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "F2X3RFT42E",
+   "title": "Chiu Chih-Hung \u2014 Season M-6",
+   "creator": "Chiu Chih-Hung",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Mawile",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Armarouge",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Hatterene",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Torkoal",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Season M-6",
+    "date": "2026-10-07",
+    "placing": "116th"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-10-07",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "G45B9S5R7H",
+   "title": "JPTK-VGC \u2014 Global Challenge I",
+   "creator": "JPTK-VGC",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Charizard Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Annihilape",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Farigiraf",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mimikyu",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Global Challenge I",
+    "date": "2026-09-26",
+    "placing": "3rd"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "8FV8TBKFQ6",
+   "title": "Kaito Arii \u2014 Global Challenge I",
+   "creator": "Kaito Arii",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Golisopod",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Grimmsnarl",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Garchomp",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Global Challenge I",
+    "date": "2026-09-26",
+    "placing": "16th"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "WNU8A38RYN",
+   "title": "Luke Kroll \u2014 Global Challenge I",
+   "creator": "Luke Kroll",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Froslass",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Hisuian Arcanine",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Global Challenge I",
+    "date": "2026-09-26",
+    "placing": "17th"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "BJ0R6F4VNF",
+   "title": "Rubenmendu \u2014 Global Challenge I",
+   "creator": "Rubenmendu",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Gardevoir",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Armarouge",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Torkoal",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Hisuian Decidueye",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Global Challenge I",
+    "date": "2026-09-26",
+    "placing": "23rd"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "MDXTLWPYQ4",
+   "title": "Kohei Sakurai \u2014 Global Challenge I",
+   "creator": "Kohei Sakurai",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Armarouge",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Global Challenge I",
+    "date": "2026-09-26",
+    "placing": "39th"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "5LJJ2GCBK3",
+   "title": "Ko Tsukide \u2014 Global Challenge I",
+   "creator": "Ko Tsukide",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Swampert",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Golisopod",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Global Challenge I",
+    "date": "2026-09-26",
+    "placing": "40th"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-26",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "X9G48T91TN",
+   "title": "Justin Tang \u2014 Early meta team",
+   "creator": "Justin Tang",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Charizard Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Gardevoir",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Venusaur",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "GMHVD1A3NJ",
+   "title": "Justin Cerioni \u2014 Early meta team",
+   "creator": "Justin Cerioni",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "UD523JVASY",
+   "title": "Justin Cerioni \u2014 Early meta team",
+   "creator": "Justin Cerioni",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Baxcalibur",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Ceruledge",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gogoat",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Milotic",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "B3P0DSYH06",
+   "title": "Jacob Mortenson \u2014 Early meta team",
+   "creator": "Jacob Mortenson",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Golisopod",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Blaziken",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Milotic",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Farigiraf",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Lycanroc",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "U163UFVG9H",
+   "title": "Luis S\u00e1nchez \u2014 Early meta team",
+   "creator": "Luis S\u00e1nchez",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Garchomp Z",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Tyranitar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Excadrill",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Corviknight",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "37T7MMB5RM",
+   "title": "Luis S\u00e1nchez \u2014 Early meta team",
+   "creator": "Luis S\u00e1nchez",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Gengar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Weavile",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Garchomp",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Annihilape",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "L3UMR0SKTD",
+   "title": "Moonstone \u2014 Early meta team",
+   "creator": "Moonstone",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pawmot",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "02USVFLBYL",
+   "title": "PhoNoodle \u2014 Early meta team",
+   "creator": "PhoNoodle",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Hisuian Arcanine",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "BRYQ42F0EG",
+   "title": "Reeshiki \u2014 Early meta team",
+   "creator": "Reeshiki",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Gardevoir",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Talonflame",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "EFC1AHAE60",
+   "title": "Komorin \u2014 Early meta team",
+   "creator": "Komorin",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Blastoise",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Delphox",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kommo-o",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "F53ERXUPKQ",
+   "title": "Red \u2014 Early meta team",
+   "creator": "Red",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Golisopod",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Milotic",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "G4VTTVVB1H",
+   "title": "Red \u2014 Early meta team",
+   "creator": "Red",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Lucario Z",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Garchomp",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "VK5EYBN16M",
+   "title": "Reisu \u2014 Early meta team",
+   "creator": "Reisu",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Metagross",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Armarouge",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Torkoal",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "3VTL67241W",
+   "title": "Tatsu \u2014 Early meta team",
+   "creator": "Tatsu",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Garchomp Z",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Floette",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Kingambit",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "VQQY2CHPB6",
+   "title": "Karma \u2014 Early meta team",
+   "creator": "Karma",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Tyranitar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Excadrill",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "D2NNESJY2W",
+   "title": "Rain \u2014 Early meta team",
+   "creator": "Rain",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Dragalge",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Metagross",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Empoleon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "952A1FPCQL",
+   "title": "Yabber \u2014 Early meta team",
+   "creator": "Yabber",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Scizor",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Archaludon",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "88SS6FLWBS",
+   "title": "Gotti \u2014 Early meta team",
+   "creator": "Gotti",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Golisopod",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Farigiraf",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Basculegion-M",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "1VG00P17DE",
+   "title": "Sahil \u2014 Early meta team",
+   "creator": "Sahil",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Salamence",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Raichu Y",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Incineroar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Primarina",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Gholdengo",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "WDSKVB25L5",
+   "title": "Clutch \u2014 Early meta team",
+   "creator": "Clutch",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Golisopod",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Swampert",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Rillaboom",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Pelipper",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "08DGXVMXNN",
+   "title": "C-Bass \u2014 Early meta team",
+   "creator": "C-Bass",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Garchomp Z",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Tyranitar",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Excadrill",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Indeedee-F",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Alcremie",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "FH4H7J3X0Y",
+   "title": "Rye \u2014 Early meta team",
+   "creator": "Rye",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Metagross",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Mega Staraptor",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Whimsicott",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sneasler",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Toxtricity",
+     "item": null,
+     "ability": null,
+     "moves": null
+    },
+    {
+     "species": "Sinistcha",
+     "item": null,
+     "ability": null,
+     "moves": null
+    }
+   ],
+   "event": {
+    "name": "Early meta team",
+    "date": "2026-09-12",
+    "placing": "Featured"
+   },
+   "source": {
+    "name": "Victory Road",
+    "url": "https://victoryroad.pro/champions-replica/"
+   },
+   "firstSeen": "2026-09-12",
+   "lastSeen": "2026-10-08",
+   "dataTier": "B"
+  },
+  {
+   "code": "9P5WDD3CTV",
+   "title": "Mega Lucario Z + Rillaboom Tailwind Team - Reg M-C",
+   "creator": "theiappi95",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Lucario Z",
+     "item": "Lucarionite Z",
+     "ability": "Inner Focus",
+     "moves": [
+      "Flash Cannon",
+      "Aura Sphere",
+      "Nasty Plot",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Rillaboom",
+     "item": "Miracle Seed",
+     "ability": "Grassy Surge",
+     "moves": [
+      "Fake Out",
+      "Grassy Glide",
+      "Wood Hammer",
+      "U-turn"
+     ]
+    },
+    {
+     "species": "Garchomp",
+     "item": "Roseli Berry",
+     "ability": "Rough Skin",
+     "moves": [
+      "Poison Jab",
+      "Rock Slide",
+      "Dragon Claw",
+      "Stomping Tantrum"
+     ]
+    },
+    {
+     "species": "Volcarona",
+     "item": "Grassy Seed",
+     "ability": "Flame Body",
+     "moves": [
+      "Overheat",
+      "Rage Powder",
+      "Tailwind",
+      "Will-O-Wisp"
+     ]
+    },
+    {
+     "species": "Aerodactyl",
+     "item": "Focus Sash",
+     "ability": "Unnerve",
+     "moves": [
+      "Rock Slide",
+      "Tailwind",
+      "Wide Guard",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Primarina",
+     "item": "Life Orb",
+     "ability": "Liquid Voice",
+     "moves": [
+      "Hydro Cannon",
+      "Hyper Voice",
+      "Moonblast",
+      "Protect"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/mega-lucario-z-grassy-terrain-tail-wind"
+   },
+   "firstSeen": null,
+   "lastSeen": null,
+   "dataTier": "A"
+  },
+  {
+   "code": "5MQB53NY0P",
+   "title": "Mega Garchomp Z Tailwind Hyper Offense",
+   "creator": "ARMADILLO",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Garchomp Z",
+     "item": "Garchompite Z",
+     "ability": "Rough Skin",
+     "moves": [
+      "Earth Power",
+      "Dragon Pulse",
+      "Protect",
+      "Flamethrower"
+     ]
+    },
+    {
+     "species": "Farigiraf",
+     "item": "Colbur Berry",
+     "ability": "Armor Tail",
+     "moves": [
+      "Trick Room",
+      "Imprison",
+      "Hyper Voice",
+      "Expanding Force"
+     ]
+    },
+    {
+     "species": "Mega Staraptor",
+     "item": "Staraptite",
+     "ability": "Intimidate",
+     "moves": [
+      "Brave Bird",
+      "Dual Wingbeat",
+      "Close Combat",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Whimsicott",
+     "item": "Focus Sash",
+     "ability": "Prankster",
+     "moves": [
+      "Moonblast",
+      "Encore",
+      "Charm",
+      "Tailwind"
+     ]
+    },
+    {
+     "species": "Basculegion",
+     "item": "Mystic Water",
+     "ability": "Adaptability",
+     "moves": [
+      "Wave Crash",
+      "Ice Fang",
+      "Protect",
+      "Last Respects"
+     ]
+    },
+    {
+     "species": "Gholdengo",
+     "item": "Life Orb",
+     "ability": "Good as Gold",
+     "moves": [
+      "Make It Rain",
+      "Nasty Plot",
+      "Shadow Ball",
+      "Protect"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/starchomp-z"
+   },
+   "firstSeen": null,
+   "lastSeen": null,
+   "dataTier": "A"
+  },
+  {
+   "code": "TM1TG5PYPG",
+   "title": "Mega Baxcalibur + Indeedee Trick Room Team - Reg M-C",
+   "creator": "theiappi95",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Baxcalibur",
+     "item": "Baxcalibrite",
+     "ability": "Thermal Exchange",
+     "moves": [
+      "Dragon Dance",
+      "Icicle Crash",
+      "Glaive Rush",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Indeedee-F",
+     "item": "Colbur Berry",
+     "ability": "Psychic Surge",
+     "moves": [
+      "Psychic",
+      "Trick Room",
+      "Follow Me",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Armarouge",
+     "item": "Life Orb",
+     "ability": "Flash Fire",
+     "moves": [
+      "Armor Cannon",
+      "Expanding Force",
+      "Aura Sphere",
+      "Trick Room"
+     ]
+    },
+    {
+     "species": "Sneasler",
+     "item": "Psychic Seed",
+     "ability": "Unburden",
+     "moves": [
+      "Fake Out",
+      "Dire Claw",
+      "Close Combat",
+      "Coaching"
+     ]
+    },
+    {
+     "species": "Kingambit",
+     "item": "Focus Sash",
+     "ability": "Defiant",
+     "moves": [
+      "Kowtow Cleave",
+      "Iron Head",
+      "Sucker Punch",
+      "Low Kick"
+     ]
+    },
+    {
+     "species": "Basculegion",
+     "item": "Choice Scarf",
+     "ability": "Adaptability",
+     "moves": [
+      "Wave Crash",
+      "Flip Turn",
+      "Last Respects",
+      "Aqua Jet"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/mega-baxcalibur-psychic-terrain-tr"
+   },
+   "firstSeen": null,
+   "lastSeen": null,
+   "dataTier": "A"
+  },
+  {
+   "code": "KNWHPDDLCK",
+   "title": "A Mega Beedrill Team??",
+   "creator": "Kinlu",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Beedrill",
+     "item": "Beedrillite",
+     "ability": "Swarm",
+     "moves": [
+      "U-turn",
+      "Poison Jab",
+      "Protect",
+      "Fell Stinger"
+     ]
+    },
+    {
+     "species": "Farigiraf",
+     "item": "Sitrus Berry",
+     "ability": "Armor Tail",
+     "moves": [
+      "Ally Switch",
+      "Twin Beam",
+      "Protect",
+      "Helping Hand"
+     ]
+    },
+    {
+     "species": "Tyrantrum",
+     "item": "Choice Scarf",
+     "ability": "Rock Head",
+     "moves": [
+      "Head Smash",
+      "Outrage",
+      "Horn Drill",
+      "Close Combat"
+     ]
+    },
+    {
+     "species": "Torkoal",
+     "item": "Charcoal",
+     "ability": "Drought",
+     "moves": [
+      "Eruption",
+      "Protect",
+      "Solar Beam",
+      "Heat Wave"
+     ]
+    },
+    {
+     "species": "Greninja",
+     "item": "Expert Belt",
+     "ability": "Protean",
+     "moves": [
+      "Ice Beam",
+      "Hydro Cannon",
+      "Round",
+      "Extrasensory"
+     ]
+    },
+    {
+     "species": "Sylveon",
+     "item": "Fairy Feather",
+     "ability": "Pixilate",
+     "moves": [
+      "Hyper Voice",
+      "Hyper Beam",
+      "Round",
+      "Detect"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/a-mega-beedrill-team"
+   },
+   "firstSeen": null,
+   "lastSeen": null,
+   "dataTier": "A"
+  },
+  {
+   "code": "220LXTWPFS",
+   "title": "Wolfey's Mega Sceptile Team - Louisville Regional",
+   "creator": "theiappi95",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Sceptile",
+     "item": "Sceptilite",
+     "ability": "Overgrow",
+     "moves": [
+      "Energy Ball",
+      "Dragon Pulse",
+      "Earth Power",
+      "Detect"
+     ]
+    },
+    {
+     "species": "Excadrill",
+     "item": "Focus Sash",
+     "ability": "Sand Rush",
+     "moves": [
+      "High Horsepower",
+      "Iron Head",
+      "Earthquake",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Indeedee-F",
+     "item": "Rocky Helmet",
+     "ability": "Psychic Surge",
+     "moves": [
+      "Psychic",
+      "Follow Me",
+      "Helping Hand",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Mega Tyranitar",
+     "item": "Tyranitarite",
+     "ability": "Sand Stream",
+     "moves": [
+      "Rock Slide",
+      "Knock Off",
+      "Low Kick",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Sneasler",
+     "item": "Psychic Seed",
+     "ability": "Unburden",
+     "moves": [
+      "Dire Claw",
+      "Close Combat",
+      "Throat Chop",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Rotom-Heat",
+     "item": "Choice Scarf",
+     "ability": "Levitate",
+     "moves": [
+      "Discharge",
+      "Overheat",
+      "Trick",
+      "Volt Switch"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/msceptile-mtytar-wolfe-team-reg-lou"
+   },
+   "firstSeen": null,
+   "lastSeen": null,
+   "dataTier": "A"
+  },
+  {
+   "code": "D8E6BX5KMV",
+   "title": "Tailroom Gardevoir + Salamence Psyspam",
+   "creator": "ARMADILLO",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Corviknight",
+     "item": "Leftovers",
+     "ability": "Mirror Armor",
+     "moves": [
+      "Bulk Up",
+      "Brave Bird",
+      "Body Press",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Sneasler",
+     "item": "Psychic Seed",
+     "ability": "Unburden",
+     "moves": [
+      "Dire Claw",
+      "Close Combat",
+      "Coaching",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Indeedee-F",
+     "item": "Colbur Berry",
+     "ability": "Psychic Surge",
+     "moves": [
+      "Psychic",
+      "Helping Hand",
+      "Follow Me",
+      "Trick Room"
+     ]
+    },
+    {
+     "species": "Mega Gardevoir",
+     "item": "Gardevoirite",
+     "ability": "Trace",
+     "moves": [
+      "Expanding Force",
+      "Hyper Voice",
+      "Protect",
+      "Trick Room"
+     ]
+    },
+    {
+     "species": "Mega Salamence",
+     "item": "Salamencite",
+     "ability": "Intimidate",
+     "moves": [
+      "Double-Edge",
+      "Draco Meteor",
+      "Tailwind",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Hisuian Arcanine",
+     "item": "Focus Sash",
+     "ability": "Rock Head",
+     "moves": [
+      "Head Smash",
+      "Flare Blitz",
+      "Crunch",
+      "Protect"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/tailroom-gardevoir-salamence-psyspam"
+   },
+   "firstSeen": null,
+   "lastSeen": null,
+   "dataTier": "A"
+  },
+  {
+   "code": "ADNBC2123H",
+   "title": "Charizard Y",
+   "creator": "SantiTrainer",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Charizard Y",
+     "item": "Charizardite Y",
+     "ability": "Blaze",
+     "moves": [
+      "Weather Ball",
+      "Heat Wave",
+      "Solar Beam",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Swampert",
+     "item": "Leftovers",
+     "ability": "Torrent",
+     "moves": [
+      "High Horsepower",
+      "Flip Turn",
+      "Wide Guard",
+      "Icy Wind"
+     ]
+    },
+    {
+     "species": "Farigiraf",
+     "item": "Sitrus Berry",
+     "ability": "Armor Tail",
+     "moves": [
+      "Trick Room",
+      "Imprison",
+      "Protect",
+      "Expanding Force"
+     ]
+    },
+    {
+     "species": "Weavile",
+     "item": "Grassy Seed",
+     "ability": "Pickpocket",
+     "moves": [
+      "Knock Off",
+      "Triple Axel",
+      "Protect",
+      "Taunt"
+     ]
+    },
+    {
+     "species": "Rillaboom",
+     "item": "Miracle Seed",
+     "ability": "Grassy Surge",
+     "moves": [
+      "Grassy Glide",
+      "Fake Out",
+      "High Horsepower",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Archaludon",
+     "item": "Choice Scarf",
+     "ability": "Sturdy",
+     "moves": [
+      "Aura Sphere",
+      "Flash Cannon",
+      "Dragon Pulse",
+      "Thunderbolt"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/charizard-y"
+   },
+   "firstSeen": null,
+   "lastSeen": null,
+   "dataTier": "A"
+  },
+  {
+   "code": "0YFJBS02J5",
+   "title": "Glalie Pawmot",
+   "creator": "Bugg",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Glalie",
+     "item": "Glalitite",
+     "ability": "Moody",
+     "moves": [
+      "Explosion",
+      "Ice Shard",
+      "Crunch",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Pawmot",
+     "item": "Leppa Berry",
+     "ability": "Iron Fist",
+     "moves": [
+      "Double Shock",
+      "Close Combat",
+      "Revival Blessing",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Medicham",
+     "item": "Sitrus Berry",
+     "ability": "Telepathy",
+     "moves": [
+      "Close Combat",
+      "Fake Out",
+      "Feint",
+      "Helping Hand"
+     ]
+    },
+    {
+     "species": "Noivern",
+     "item": "Normal Gem",
+     "ability": "Telepathy",
+     "moves": [
+      "Draco Meteor",
+      "Boomburst",
+      "Tailwind",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Hisuian Arcanine",
+     "item": "Focus Sash",
+     "ability": "Rock Head",
+     "moves": [
+      "Flare Blitz",
+      "Head Smash",
+      "Extreme Speed",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Basculegion",
+     "item": "Choice Scarf",
+     "ability": "Adaptability",
+     "moves": [
+      "Wave Crash",
+      "Last Respects",
+      "Aqua Jet",
+      "Flip Turn"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/glalie-pawmot"
+   },
+   "firstSeen": null,
+   "lastSeen": null,
+   "dataTier": "A"
+  },
+  {
+   "code": "QV2XMXJ4CJ",
+   "title": "Mega Metagross Loadout",
+   "creator": "Rakshan",
+   "format": "singles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Gengar",
+     "item": "Focus Sash",
+     "ability": "Cursed Body",
+     "moves": [
+      "Destiny Bond",
+      "Sludge Bomb",
+      "Shadow Ball",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Snorlax",
+     "item": "Leftovers",
+     "ability": "Thick Fat",
+     "moves": [
+      "Giga Impact",
+      "Rest",
+      "Curse",
+      "Sleep Talk"
+     ]
+    },
+    {
+     "species": "Mega Metagross",
+     "item": "Metagrossite",
+     "ability": "Clear Body",
+     "moves": [
+      "Meteor Mash",
+      "Bullet Punch",
+      "Stomping Tantrum",
+      "Psychic Fangs"
+     ]
+    },
+    {
+     "species": "Kingambit",
+     "item": "Chople Berry",
+     "ability": "Supreme Overlord",
+     "moves": [
+      "Kowtow Cleave",
+      "Sucker Punch",
+      "Swords Dance",
+      "Iron Head"
+     ]
+    },
+    {
+     "species": "Dragonite",
+     "item": "Lum Berry",
+     "ability": "Multiscale",
+     "moves": [
+      "Extreme Speed",
+      "Dragon Claw",
+      "Dragon Dance",
+      "Earthquake"
+     ]
+    },
+    {
+     "species": "Alakazam",
+     "item": "Life Orb",
+     "ability": "Magic Guard",
+     "moves": [
+      "Psychic",
+      "Shadow Ball",
+      "Dazzling Gleam",
+      "Focus Blast"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/mega-metagross-loadout"
+   },
+   "firstSeen": null,
+   "lastSeen": null,
+   "dataTier": "A"
+  },
+  {
+   "code": "815XD90A8B",
+   "title": "Mega Golisopod Rain Team - Victory Road 2nd Place, Reg M-C",
+   "creator": "theiappi95",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Sneasler",
+     "item": "White Herb",
+     "ability": "Unburden",
+     "moves": [
+      "Dire Claw",
+      "Close Combat",
+      "Rock Slide",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Mega Golisopod",
+     "item": "Golisopite",
+     "ability": "Emergency Exit",
+     "moves": [
+      "Leech Life",
+      "Iron Head",
+      "Sucker Punch",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Pelipper",
+     "item": "Damp Rock",
+     "ability": "Drizzle",
+     "moves": [
+      "Weather Ball",
+      "Hurricane",
+      "Helping Hand",
+      "Wide Guard"
+     ]
+    },
+    {
+     "species": "Archaludon",
+     "item": "Leftovers",
+     "ability": "Stamina",
+     "moves": [
+      "Electro Shot",
+      "Dragon Pulse",
+      "Aura Sphere",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Basculegion-F",
+     "item": "Focus Sash",
+     "ability": "Swift Swim",
+     "moves": [
+      "Muddy Water",
+      "Shadow Ball",
+      "Ice Beam",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Mega Floette",
+     "item": "Floettite",
+     "ability": "Flower Veil",
+     "moves": [
+      "Moonblast",
+      "Dazzling Gleam",
+      "Light of Ruin",
+      "Protect"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/mgolisopod-mfloette-dion-s-2nd-vroad"
+   },
+   "firstSeen": null,
+   "lastSeen": null,
+   "dataTier": "A"
+  },
+  {
+   "code": "H5XSX2X4RP",
+   "title": "VeilTimidate",
+   "creator": "Anonymous",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Alolan Ninetales",
+     "item": "Light Clay",
+     "ability": "Snow Warning",
+     "moves": [
+      "Aurora Veil",
+      "Blizzard",
+      "Chilling Water",
+      "Dazzling Gleam"
+     ]
+    },
+    {
+     "species": "Arcanine",
+     "item": "Wide Lens",
+     "ability": "Intimidate",
+     "moves": [
+      "Will-O-Wisp",
+      "Heat Wave",
+      "Snarl",
+      "Helping Hand"
+     ]
+    },
+    {
+     "species": "Hisuian Samurott",
+     "item": "Focus Sash",
+     "ability": "Sharpness",
+     "moves": [
+      "Encore",
+      "Aqua Cutter",
+      "Ceaseless Edge",
+      "Sacred Sword"
+     ]
+    },
+    {
+     "species": "Indeedee",
+     "item": "Choice Scarf",
+     "ability": "Psychic Surge",
+     "moves": [
+      "Trick",
+      "Expanding Force",
+      "Dazzling Gleam",
+      "Mystical Fire"
+     ]
+    },
+    {
+     "species": "Sinistcha",
+     "item": "Leftovers",
+     "ability": "Hospitality",
+     "moves": [
+      "Calm Mind",
+      "Matcha Gotcha",
+      "Shadow Ball",
+      "Strength Sap"
+     ]
+    },
+    {
+     "species": "Mega Hawlucha",
+     "item": "Hawluchanite",
+     "ability": "Limber",
+     "moves": [
+      "Dual Wingbeat",
+      "High Jump Kick",
+      "Iron Head",
+      "Rock Slide"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/veiltimidate"
+   },
+   "firstSeen": null,
+   "lastSeen": null,
+   "dataTier": "A"
+  },
+  {
+   "code": "F93G5V9LBL",
+   "title": "Raichu Y + Garchomp Z team",
+   "creator": "Anonymous",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Raichu Y",
+     "item": "Raichunite Y",
+     "ability": "Lightning Rod",
+     "moves": [
+      "Zap Cannon",
+      "Focus Blast",
+      "Fake Out",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Mega Garchomp Z",
+     "item": "Garchompite Z",
+     "ability": "Rough Skin",
+     "moves": [
+      "Dragon Pulse",
+      "Earth Power",
+      "Power Gem",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Hisuian Arcanine",
+     "item": "Focus Sash",
+     "ability": "Rock Head",
+     "moves": [
+      "Flare Blitz",
+      "Head Smash",
+      "Extreme Speed",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Gholdengo",
+     "item": "Life Orb",
+     "ability": "Good as Gold",
+     "moves": [
+      "Nasty Plot",
+      "Make It Rain",
+      "Shadow Ball",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Rillaboom",
+     "item": "Miracle Seed",
+     "ability": "Grassy Surge",
+     "moves": [
+      "Wood Hammer",
+      "Grassy Glide",
+      "Fake Out",
+      "U-turn"
+     ]
+    },
+    {
+     "species": "Sylveon",
+     "item": "Fairy Feather",
+     "ability": "Pixilate",
+     "moves": [
+      "Hyper Voice",
+      "Hyper Beam",
+      "Moonblast",
+      "Detect"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/raichu-y-garchomp-z-team"
+   },
+   "firstSeen": null,
+   "lastSeen": null,
+   "dataTier": "A"
+  },
+  {
+   "code": "A4RBRNN9YE",
+   "title": "Takuma Yamazaki's Worlds 2026 Champion",
+   "creator": "Anonymous",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Mega Dragonite",
+     "item": "Dragoninite",
+     "ability": "Multiscale",
+     "moves": [
+      "Dragon Pulse",
+      "Heat Wave",
+      "Extreme Speed",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Sneasler",
+     "item": "Focus Sash",
+     "ability": "Poison Touch",
+     "moves": [
+      "Close Combat",
+      "Dire Claw",
+      "Fake Out",
+      "Feint"
+     ]
+    },
+    {
+     "species": "Basculegion",
+     "item": "Life Orb",
+     "ability": "Adaptability",
+     "moves": [
+      "Wave Crash",
+      "Last Respects",
+      "Aqua Jet",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Kingambit",
+     "item": "Chople Berry",
+     "ability": "Defiant",
+     "moves": [
+      "Sucker Punch",
+      "Kowtow Cleave",
+      "Low Kick",
+      "Iron Head"
+     ]
+    },
+    {
+     "species": "Garchomp",
+     "item": "Choice Scarf",
+     "ability": "Rough Skin",
+     "moves": [
+      "Dragon Claw",
+      "Stomping Tantrum",
+      "Earthquake",
+      "Rock Slide"
+     ]
+    },
+    {
+     "species": "Mega Floette",
+     "item": "Floettite",
+     "ability": "Flower Veil",
+     "moves": [
+      "Moonblast",
+      "Dazzling Gleam",
+      "Light of Ruin",
+      "Protect"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/takuma-yamazaki-s-worlds-2026-champion"
+   },
+   "firstSeen": null,
+   "lastSeen": null,
+   "dataTier": "A"
+  }
+ ]
+}
