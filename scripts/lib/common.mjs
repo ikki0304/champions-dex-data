@@ -48,6 +48,7 @@ export function speciesKey(value) {
   if (key.endsWith('-galar')) key = `galarian-${key.slice(0, -'-galar'.length)}`;
   key = key.replace(/^(indeedee|basculegion|meowstic)-(f|m|female|male)$/, '$1');
   key = key.replace(/-(eternal|masterpiece|teatime)$/, '');
+  key = key.replace(/^eternal-(floette)$/, '$1');
   key = key.replace(/-(f|m|female|male)$/, '');
   return key;
 }
@@ -74,7 +75,7 @@ export function normalizeSpecies(raw) {
     else if (/^Combat Breed$/i.test(q)) name = `Paldean ${plainBase}`;
     else if (/^(Blaze|Aqua) Breed$/i.test(q)) name = `(${q.split(' ')[0]}) Paldean ${plainBase}`;
     else if (/^(\w+) Plumage$/i.test(q)) name = `${q} ${base}`;
-    else if (/^Eternal( Flower)?$/i.test(q)) name = `${base}-Eternal`;
+    else if (/^Eternal( Flower)?$/i.test(q)) name = `Eternal ${base}`;
     else if (/^Toxtricity$/i.test(base) && /^(Amped|Low[\s-]?Key)( Form)?$/i.test(q)) name = /^amped/i.test(q) ? 'Amped Toxtricity' : 'Low Key Toxtricity';
     else if (/\b(Family|Forme?|Breed|Style|Mode|Size|Cloak|Pattern|Flower|Swirl|Cream)\b/i.test(q) || /\s/.test(q)
       || /^(Shield|Blade|Hero|Zero|Dusk|Midnight|Midday|Average|Small|Large|Super|Amped|Low Key)$/i.test(q)) name = base;
@@ -84,6 +85,7 @@ export function normalizeSpecies(raw) {
   if (/^Alcremie\b/i.test(name)) name = 'Alcremie';
   if (/^Maushold\b/i.test(name)) name = 'Maushold';
   // Victory Road sprite titles: "Charizard Mega Y", "Staraptor Mega", "Arcanine Hisui", "Indeedee F", "Kommo O"
+  name = name.replace(/^(.+?)\s+Mega\s+(F|M)$/i, 'Mega $1');
   let m = name.match(/^(.+?)\s+Mega(?:\s+([XYZ]))?$/i);
   if (m) name = `Mega ${m[1]}${m[2] ? ` ${m[2].toUpperCase()}` : ''}`;
   m = name.match(/^(Mega\s+)?(.+?)[\s-](Hisui|Alola|Galar|Paldea)$/i);
@@ -95,6 +97,9 @@ export function normalizeSpecies(raw) {
   if (m) name = /^amped$/i.test(m[1]) ? 'Amped Toxtricity' : 'Low Key Toxtricity';
   m = name.match(/^Rotom[\s-](Heat|Wash|Frost|Fan|Mow)$/i);
   if (m) name = `${m[1][0].toUpperCase()}${m[1].slice(1).toLowerCase()} Rotom`;
+  if (/^Vivillon\b/i.test(name)) name = 'Vivillon';
+  if (/^Floette[\s-]Eternal$/i.test(name)) name = 'Eternal Floette';
+  if (/^Mega Meowstic[\s-](F|M)$/i.test(name)) name = 'Mega Meowstic';
   return name;
 }
 

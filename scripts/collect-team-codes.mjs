@@ -8,7 +8,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
-import { currentRegulation, isValidTeamCode, normalizeTeamCode, speciesSetKey, speciesKey, tierFor, isoDate } from './lib/common.mjs';
+import { currentRegulation, isValidTeamCode, normalizeTeamCode, normalizeSpecies, speciesSetKey, speciesKey, tierFor, isoDate } from './lib/common.mjs';
 import { collectOpgg } from './sources/opgg.mjs';
 import { collectReplicaDex } from './sources/replicadex.mjs';
 import { collectVictoryRoad } from './sources/victoryroad.mjs';
@@ -95,6 +95,12 @@ async function main() {
   let runLog = { runs: [] };
   try { runLog = JSON.parse(await readFile(LOG_FILE, 'utf8')); } catch { /* first run */ }
   const before = payload.teams.length;
+  // Canonical species spelling (e.g. "Rotom-Heat" -> "Heat Rotom") so filters and Team Builder resolve consistently.
+  let speciesRenamed = 0;
+  for (const team of payload.teams) for (const m of team.members || []) {
+    const canon = normalizeSpecies(m.species);
+    if (canon && canon !== m.species) { m.species = canon; speciesRenamed++; }
+  }
   const byCode = new Map(payload.teams.map(t => [normalizeTeamCode(t.code), t]));
   const needsEnrichment = code => !byCode.has(code) || byCode.get(code).dataTier !== 'A';
   const latestOpgg = payload.teams.filter(t => t.source && t.source.name === 'OP.GG' && t.firstSeen).map(t => t.firstSeen).sort().pop();
@@ -155,7 +161,7 @@ async function main() {
   if (payload.teams.length < before) throw new Error('Refusing to write: team count decreased');
 
   const stamp = now.toISOString().replace(/[-:]/g, '').replace('T', '-').slice(0, 13);
-  const contentChanged = newCodes.length > 0 || changedTeams > 0 || regulationCurrent !== payload.regulationCurrent;
+  const contentChanged = newCodes.length > 0 || changedTeams > 0 || speciesRenamed > 0 || regulationCurrent !== payload.regulationCurrent;
   const out = {
     version: `auto-${stamp}`,
     updatedAt: now.toISOString(),
@@ -170,7 +176,7 @@ async function main() {
     sourcesOk: okCount, sources: sourceSummary,
     totals: { before, after: out.teams.length, newTeams: newCodes.length, teamsUpdated: changedTeams, enrichedToTierA: counters.enriched.length, tierA, tierB: out.teams.length - tierA },
     newCodes: newCodes.slice(0, 100), enrichedCodes: counters.enriched.slice(0, 100),
-    speciesConflicts: [...new Set(counters.speciesConflicts)].slice(0, 50), invalidCandidates: counters.invalid,
+    speciesConflicts: [...new Set(counters.speciesConflicts)].slice(0, 50), invalidCandidates: counters.invalid, speciesRenamed,
     regulationCurrent, warnings,
   };
   runLog.runs = [summary, ...(runLog.runs || [])].slice(0, MAX_LOG_RUNS);
