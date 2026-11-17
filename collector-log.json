@@ -1,0 +1,204 @@
+{
+ "runs": [
+  {
+   "startedAt": "2026-11-17T18:43:48.727Z",
+   "finishedAt": "2026-11-17T18:47:06.167Z",
+   "durationMs": 197431,
+   "mode": "full",
+   "sourcesOk": 4,
+   "sources": {
+    "OP.GG": {
+     "ok": true,
+     "candidates": 413,
+     "ms": 185954,
+     "stats": {
+      "pages": 77,
+      "builds": 755,
+      "withCodes": 413,
+      "sampleBuildsSkipped": 342,
+      "invalidCodes": 0,
+      "unmappedNames": [
+       "pokemon:mr.-rime"
+      ]
+     },
+     "newTeams": 312
+    },
+    "ReplicaDex": {
+     "ok": true,
+     "candidates": 118,
+     "ms": 1930,
+     "stats": {
+      "objects": 121,
+      "teams": 118,
+      "skipped": 3,
+      "note": "ReplicaDex labels all teams M-A; label kept as published"
+     },
+     "newTeams": 20
+    },
+    "Victory Road": {
+     "ok": true,
+     "candidates": 301,
+     "ms": 197376,
+     "stats": {
+      "pagesFetched": 18,
+      "eventPages": 15,
+      "teams": 301,
+      "pastesFetched": 184,
+      "pastesMerged": 181,
+      "pasteSpeciesMismatch": 3,
+      "mismatchSamples": [
+       {
+        "code": "X9G48T91TN",
+        "table": "basculegion|charizard|gardevoir|indeedee|sneasler|venusaur",
+        "paste": "dragonite|gengar|incineroar|rillaboom|scrafty|snorlax"
+       },
+       {
+        "code": "GMHVD1A3NJ",
+        "table": "floette|incineroar|kingambit|rillaboom|salamence|sneasler",
+        "paste": "basculegion|hisuian-arcanine|kingambit|rillaboom|salamence|sneasler"
+       },
+       {
+        "code": "SDPPTBSSRA",
+        "table": "floette|garchomp|incineroar|kingambit|sinistcha|sneasler",
+        "paste": "basculegion|charizard|floette|garchomp|kingambit|whimsicott"
+       }
+      ],
+      "pasteErrors": 0
+     },
+     "newTeams": 208
+    },
+    "PokeFeed": {
+     "ok": true,
+     "candidates": 37,
+     "ms": 56804,
+     "stats": {
+      "listingPages": 4,
+      "codedTeams": 37,
+      "detailPages": 24,
+      "detailErrors": 0,
+      "seenOnly": 13
+     },
+     "newTeams": 22
+    }
+   },
+   "totals": {
+    "before": 315,
+    "after": 877,
+    "newTeams": 562,
+    "teamsUpdated": 296,
+    "enrichedToTierA": 1,
+    "tierA": 778,
+    "tierB": 99
+   },
+   "newCodes": [
+    "5DSUR5RN6K",
+    "YLQACPT8YU",
+    "QY9L1YEGK4",
+    "K8NDPTYY01",
+    "UY4L2EK2MF",
+    "N188888888",
+    "ANYQSB0VEQ",
+    "3EQK2FL8CM",
+    "45PNHEJ46K",
+    "YDK4W08C3G",
+    "3S6DKWHDVC",
+    "WTSC1DV5DA",
+    "L4D8CFW67R",
+    "8VKWQD0WJW",
+    "9FSFVXRPTN",
+    "536D7JJ2Y7",
+    "H2Y0AHEANJ",
+    "5C1MDWQFJP",
+    "6WKUDPMYTV",
+    "00Q2F7C49P",
+    "XFLJUPPMQ8",
+    "YUB6D089JQ",
+    "RNV5S84N8N",
+    "NJL0MF64DS",
+    "W3PQAKPXKG",
+    "H2JBM2URA2",
+    "643GV6RKSF",
+    "UWRA7CW8X0",
+    "H19H8B93A8",
+    "KGSRWHBQS9",
+    "16CEFKC9FD",
+    "SA5MNK3BQ6",
+    "VK31AA8YGX",
+    "SJG1REBKDK",
+    "D839K24XX2",
+    "WCUJEBRB6T",
+    "50NCFWRWVR",
+    "68D8XH7K49",
+    "5JR3SVJD9V",
+    "GV6YC7MJUW",
+    "ENYJUUY7GE",
+    "B41NQAHQ5Y",
+    "NWSLHTNYWL",
+    "THATSMYWAY",
+    "HV3BCMQ78G",
+    "KMNQW56AHE",
+    "CK2QB7R7SB",
+    "997VH68JNA",
+    "FDQRPJGCJX",
+    "MXPXW6DYJD",
+    "FG62M47B79",
+    "N3VXFX66R6",
+    "HT7XM5SKPE",
+    "A4768XYL9X",
+    "EQKU69TRJ0",
+    "TYJX8Y9VHN",
+    "DMH1V0Q1LS",
+    "J4XQULTCRN",
+    "KXN12RUEJG",
+    "A354KDW9C0",
+    "Q65GYMPB0A",
+    "6MFLTTBCUK",
+    "QQN38DRNNK",
+    "W4SFP84QL8",
+    "5FTHXCS29K",
+    "KKYFKND1QS",
+    "HMMP1MLS5Q",
+    "CMB30PPQT7",
+    "6G4GXUNG6C",
+    "0V7S8YYY8C",
+    "6VUGR9794U",
+    "R67DT0UYKL",
+    "NKPBK2NB9F",
+    "JQJF25TRBG",
+    "CULP1DSA7G",
+    "MEEWUVS5WM",
+    "TR3EYQPTHT",
+    "B7KMJCATDX",
+    "YYJ63BQHE7",
+    "MYW59SS6JV",
+    "JA7F750A2T",
+    "F7USBP1A3F",
+    "4Q6DJT4HU4",
+    "DF4ARX27C5",
+    "2L49NXQAK4",
+    "E142M754QW",
+    "D4AAHTJ107",
+    "TL9HG866ED",
+    "97NDAK495N",
+    "YNBWN5XM1Y",
+    "HL28YPA13L",
+    "ER47B2KTV7",
+    "HRBXG3CU5P",
+    "W6B75JBB1E",
+    "8UNJQ7UB0J",
+    "5JPXJL4CXC",
+    "EV006X135N",
+    "3HC021RLMT",
+    "A9R5439YJB",
+    "JR1SQR9LBG"
+   ],
+   "enrichedCodes": [
+    "WNU8A38RYN"
+   ],
+   "speciesConflicts": [],
+   "invalidCandidates": 0,
+   "regulationCurrent": "M-C",
+   "warnings": []
+  }
+ ]
+}

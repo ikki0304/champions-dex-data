@@ -1,0 +1,55 @@
+name: Collect team codes
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'   # every 6 hours (UTC), off the top of the hour
+  workflow_dispatch:
+    inputs:
+      full:
+        description: 'Deep crawl (all OP.GG pages + previous-regulation Victory Road pages)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-team-codes
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Exits non-zero only when EVERY source failed (or the merged data fails validation),
+      # so a single broken site never blocks the refresh but a total outage is noticed.
+      - name: Run collector
+        env:
+          COLLECT_FULL: ${{ github.event.inputs.full == 'true' && '1' || '' }}
+        run: node scripts/collect-team-codes.mjs
+
+      - name: Commit and push if data changed
+        run: |
+          if git diff --quiet -- team-codes.json; then
+            echo "team-codes.json unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add team-codes.json collector-log.json
+          total=$(node -e "console.log(require('./team-codes.json').teams.length)")
+          added=$(node -e "console.log(require('./collector-log.json').runs[0].totals.newTeams)")
+          git commit -m "Auto-refresh team codes: ${total} teams (+${added} new)"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep 5
+          done
+          echo "Push failed after 3 attempts" >&2
+          exit 1
