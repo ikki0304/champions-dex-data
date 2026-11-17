@@ -1,6 +1,93 @@
 {
  "runs": [
   {
+   "startedAt": "2026-11-17T18:51:38.664Z",
+   "finishedAt": "2026-11-17T18:51:57.215Z",
+   "durationMs": 18520,
+   "mode": "incremental",
+   "sourcesOk": 4,
+   "sources": {
+    "OP.GG": {
+     "ok": true,
+     "candidates": 2,
+     "ms": 2795,
+     "stats": {
+      "pages": 2,
+      "builds": 20,
+      "withCodes": 2,
+      "sampleBuildsSkipped": 18,
+      "invalidCodes": 0,
+      "unmappedNames": []
+     }
+    },
+    "ReplicaDex": {
+     "ok": true,
+     "candidates": 118,
+     "ms": 599,
+     "stats": {
+      "objects": 121,
+      "teams": 118,
+      "skipped": 3,
+      "note": "ReplicaDex labels all teams M-A; label kept as published"
+     }
+    },
+    "Victory Road": {
+     "ok": true,
+     "candidates": 164,
+     "ms": 18437,
+     "stats": {
+      "pagesFetched": 12,
+      "eventPages": 11,
+      "teams": 164,
+      "pastesFetched": 3,
+      "pastesMerged": 1,
+      "pasteSpeciesMismatch": 2,
+      "mismatchSamples": [
+       {
+        "code": "X9G48T91TN",
+        "table": "basculegion|charizard|gardevoir|indeedee|sneasler|venusaur",
+        "paste": "dragonite|gengar|incineroar|rillaboom|scrafty|snorlax"
+       },
+       {
+        "code": "GMHVD1A3NJ",
+        "table": "floette|incineroar|kingambit|rillaboom|salamence|sneasler",
+        "paste": "basculegion|hisuian-arcanine|kingambit|rillaboom|salamence|sneasler"
+       }
+      ],
+      "pasteErrors": 0
+     }
+    },
+    "PokeFeed": {
+     "ok": true,
+     "candidates": 37,
+     "ms": 6761,
+     "stats": {
+      "listingPages": 4,
+      "codedTeams": 37,
+      "detailPages": 0,
+      "detailErrors": 0,
+      "seenOnly": 37
+     }
+    }
+   },
+   "totals": {
+    "before": 877,
+    "after": 877,
+    "newTeams": 0,
+    "teamsUpdated": 0,
+    "enrichedToTierA": 0,
+    "tierA": 778,
+    "tierB": 99
+   },
+   "newCodes": [],
+   "enrichedCodes": [],
+   "speciesConflicts": [],
+   "invalidCandidates": 0,
+   "speciesRenamed": 0,
+   "regulationCurrent": "M-C",
+   "warnings": []
+  },
+  {
    "startedAt": "2026-11-17T18:50:18.688Z",
    "finishedAt": "2026-11-17T18:50:36.780Z",
    "durationMs": 18052,
