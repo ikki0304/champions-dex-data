@@ -1,7 +1,7 @@
 {
- "version": "auto-20261117-1848",
- "updatedAt": "2026-11-17T18:48:51.117Z",
- "lastChangedAt": "2026-11-17T18:43:48.726Z",
+ "version": "auto-20261117-1850",
+ "updatedAt": "2026-11-17T18:50:18.688Z",
+ "lastChangedAt": "2026-11-17T18:50:18.688Z",
  "regulationCurrent": "M-C",
  "collector": {
   "schedule": "every 6 hours (GitHub Actions)",
@@ -23242,7 +23242,7 @@
      ]
     },
     {
-     "species": "Rotom-Heat",
+     "species": "Heat Rotom",
      "item": "Choice Scarf",
      "ability": "Levitate",
      "moves": [
@@ -60149,7 +60149,7 @@
      ]
     },
     {
-     "species": "Mega Meowstic F",
+     "species": "Mega Meowstic",
      "item": "Meowsticite",
      "ability": "Competitive",
      "moves": [
@@ -63642,7 +63642,7 @@
      ]
     },
     {
-     "species": "Vivillon Fancy",
+     "species": "Vivillon",
      "item": "Focus Sash",
      "ability": "Compound Eyes",
      "moves": [
@@ -67134,7 +67134,7 @@
    "regulation": "M-C",
    "members": [
     {
-     "species": "Floette-Eternal",
+     "species": "Eternal Floette",
      "item": "Floettite",
      "ability": "Flower Veil",
      "moves": [
@@ -68365,7 +68365,7 @@
      ]
     },
     {
-     "species": "Floette-Eternal",
+     "species": "Eternal Floette",
      "item": "Floettite",
      "ability": "Flower Veil",
      "moves": [
