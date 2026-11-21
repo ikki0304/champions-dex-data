@@ -1,7 +1,7 @@
 {
- "version": "auto-20261121-0703",
- "updatedAt": "2026-11-21T07:03:44.867Z",
- "lastChangedAt": "2026-11-21T07:03:44.867Z",
+ "version": "auto-20261121-1913",
+ "updatedAt": "2026-11-21T19:13:22.150Z",
+ "lastChangedAt": "2026-11-21T19:13:22.150Z",
  "regulationCurrent": "M-C",
  "collector": {
   "schedule": "every 6 hours (GitHub Actions)",
@@ -71362,6 +71362,260 @@
    "lastSeen": "2026-11-21",
    "dataTier": "A",
    "regulationBasis": "inferred-from-submission-date"
+  },
+  {
+   "code": "ZZGGAZ1477",
+   "title": ";)",
+   "creator": "아들에날린",
+   "format": "singles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Beedrill",
+     "item": "Beedrillite",
+     "ability": "Swarm",
+     "moves": [
+      "Poison Jab",
+      "Drill Run",
+      "Knock Off",
+      "U-turn"
+     ]
+    },
+    {
+     "species": "Maushold",
+     "item": "King’s Rock",
+     "ability": "Technician",
+     "moves": [
+      "Population Bomb",
+      "Bite",
+      "Encore",
+      "Tidy Up"
+     ]
+    },
+    {
+     "species": "Clawitzer",
+     "item": "Life Orb",
+     "ability": "Mega Launcher",
+     "moves": [
+      "Hydro Pump",
+      "Aura Sphere",
+      "Dark Pulse",
+      "Dragon Pulse"
+     ]
+    },
+    {
+     "species": "Aegislash",
+     "item": "Leftovers",
+     "ability": "Stance Change",
+     "moves": [
+      "Poltergeist",
+      "Sacred Sword",
+      "Shadow Sneak",
+      "King’s Shield"
+     ]
+    },
+    {
+     "species": "Alolan Ninetales",
+     "item": "Light Clay",
+     "ability": "Snow Warning",
+     "moves": [
+      "Aurora Veil",
+      "Blizzard",
+      "Moonblast",
+      "Freeze-Dry"
+     ]
+    },
+    {
+     "species": "Dragonite",
+     "item": "Dragoninite",
+     "ability": "Multiscale",
+     "moves": [
+      "Draco Meteor",
+      "Fire Blast",
+      "Roost",
+      "Extreme Speed"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "OP.GG",
+    "url": "https://op.gg/pokemon-champions/replica-teams/ZZGGAZ1477"
+   },
+   "firstSeen": "2026-11-21",
+   "lastSeen": "2026-11-21",
+   "dataTier": "A",
+   "regulationBasis": "inferred-from-submission-date"
+  },
+  {
+   "code": "D4VOQRYA6T",
+   "title": "Crosswind Mega Dragonite",
+   "creator": "NINJOSH",
+   "format": "doubles",
+   "regulation": "M-A",
+   "archetype": "Tailwind",
+   "members": [
+    {
+     "species": "Dragonite",
+     "item": "Dragoninite",
+     "ability": "Multiscale",
+     "moves": [
+      "Dragon Pulse",
+      "Heat Wave",
+      "Tailwind",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Rillaboom",
+     "item": "Miracle Seed",
+     "ability": "Grassy Surge",
+     "moves": [
+      "Grassy Glide",
+      "Wood Hammer",
+      "High Horsepower",
+      "Fake Out"
+     ]
+    },
+    {
+     "species": "Basculegion",
+     "item": "Life Orb",
+     "ability": "Adaptability",
+     "moves": [
+      "Last Respects",
+      "Protect",
+      "Aqua Jet",
+      "Wave Crash"
+     ]
+    },
+    {
+     "species": "Kingambit",
+     "item": "Chople Berry",
+     "ability": "Defiant",
+     "moves": [
+      "Kowtow Cleave",
+      "Iron Head",
+      "Sucker Punch",
+      "Low Kick"
+     ]
+    },
+    {
+     "species": "Gengar",
+     "item": "Gengarite",
+     "ability": "Cursed Body",
+     "moves": [
+      "Shadow Ball",
+      "Sludge Bomb",
+      "Substitute",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Sneasler",
+     "item": "Focus Sash",
+     "ability": "Poison Touch",
+     "moves": [
+      "Close Combat",
+      "Poison Jab",
+      "Fake Out",
+      "Protect"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "ReplicaDex",
+    "url": "https://replicadex.com.br/"
+   },
+   "firstSeen": "2026-11-21",
+   "lastSeen": "2026-11-21",
+   "dataTier": "A",
+   "regulationBasis": "source-label"
+  },
+  {
+   "code": "DMSLVTJ879",
+   "title": "Upside-Down Mega Heracross",
+   "creator": "Ibi",
+   "format": "doubles",
+   "regulation": "M-A",
+   "archetype": "Trick Room, Psyspam",
+   "members": [
+    {
+     "species": "Indeedee",
+     "item": "Rocky Helmet",
+     "ability": "Psychic Surge",
+     "moves": [
+      "Psychic",
+      "Follow Me",
+      "Helping Hand",
+      "Trick Room"
+     ]
+    },
+    {
+     "species": "Armarouge",
+     "item": "Twisted Spoon",
+     "ability": "Flash Fire",
+     "moves": [
+      "Expanding Force",
+      "Armor Cannon",
+      "Trick Room",
+      "Wide Guard"
+     ]
+    },
+    {
+     "species": "Milotic",
+     "item": "Psychic Seed",
+     "ability": "Competitive",
+     "moves": [
+      "Muddy Water",
+      "Hypnosis",
+      "Recover",
+      "Coil"
+     ]
+    },
+    {
+     "species": "Heracross",
+     "item": "Heracronite",
+     "ability": "Moxie",
+     "moves": [
+      "Pin Missile",
+      "Close Combat",
+      "Rock Blast",
+      "Bullet Seed"
+     ]
+    },
+    {
+     "species": "Mega Mawile",
+     "item": "Mawilite",
+     "ability": "Intimidate",
+     "moves": [
+      "Iron Head",
+      "Play Rough",
+      "Sucker Punch",
+      "Swords Dance"
+     ]
+    },
+    {
+     "species": "Dragapult",
+     "item": "Life Orb",
+     "ability": "Infiltrator",
+     "moves": [
+      "Draco Meteor",
+      "Shadow Ball",
+      "Will-O-Wisp",
+      "Protect"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "ReplicaDex",
+    "url": "https://replicadex.com.br/"
+   },
+   "firstSeen": "2026-11-21",
+   "lastSeen": "2026-11-21",
+   "dataTier": "A",
+   "regulationBasis": "source-label"
   }
  ]
 }

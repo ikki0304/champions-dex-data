@@ -1,6 +1,99 @@
 {
  "runs": [
   {
+   "startedAt": "2026-11-21T19:13:22.150Z",
+   "finishedAt": "2026-11-21T19:13:42.412Z",
+   "durationMs": 20241,
+   "mode": "incremental",
+   "sourcesOk": 4,
+   "sources": {
+    "OP.GG": {
+     "ok": true,
+     "candidates": 4,
+     "ms": 2879,
+     "stats": {
+      "pages": 2,
+      "builds": 20,
+      "withCodes": 4,
+      "sampleBuildsSkipped": 16,
+      "invalidCodes": 0,
+      "unmappedNames": []
+     },
+     "newTeams": 1
+    },
+    "ReplicaDex": {
+     "ok": true,
+     "candidates": 120,
+     "ms": 757,
+     "stats": {
+      "objects": 123,
+      "teams": 120,
+      "skipped": 3,
+      "note": "ReplicaDex labels all teams M-A; label kept as published"
+     },
+     "newTeams": 2
+    },
+    "Victory Road": {
+     "ok": true,
+     "candidates": 164,
+     "ms": 20181,
+     "stats": {
+      "pagesFetched": 12,
+      "eventPages": 11,
+      "teams": 164,
+      "pastesFetched": 3,
+      "pastesMerged": 1,
+      "pasteSpeciesMismatch": 2,
+      "mismatchSamples": [
+       {
+        "code": "X9G48T91TN",
+        "table": "basculegion|charizard|gardevoir|indeedee|sneasler|venusaur",
+        "paste": "dragonite|gengar|incineroar|rillaboom|scrafty|snorlax"
+       },
+       {
+        "code": "GMHVD1A3NJ",
+        "table": "floette|incineroar|kingambit|rillaboom|salamence|sneasler",
+        "paste": "basculegion|hisuian-arcanine|kingambit|rillaboom|salamence|sneasler"
+       }
+      ],
+      "pasteErrors": 0
+     }
+    },
+    "PokeFeed": {
+     "ok": true,
+     "candidates": 37,
+     "ms": 8837,
+     "stats": {
+      "listingPages": 4,
+      "codedTeams": 37,
+      "detailPages": 0,
+      "detailErrors": 0,
+      "seenOnly": 37
+     }
+    }
+   },
+   "totals": {
+    "before": 879,
+    "after": 882,
+    "newTeams": 3,
+    "teamsUpdated": 0,
+    "enrichedToTierA": 0,
+    "tierA": 783,
+    "tierB": 99
+   },
+   "newCodes": [
+    "ZZGGAZ1477",
+    "D4VOQRYA6T",
+    "DMSLVTJ879"
+   ],
+   "enrichedCodes": [],
+   "speciesConflicts": [],
+   "invalidCandidates": 0,
+   "speciesRenamed": 0,
+   "regulationCurrent": "M-C",
+   "warnings": []
+  },
+  {
    "startedAt": "2026-11-21T07:03:44.867Z",
    "finishedAt": "2026-11-21T07:04:26.012Z",
    "durationMs": 41115,
