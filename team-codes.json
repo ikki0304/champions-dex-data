@@ -1,7 +1,7 @@
 {
- "version": "auto-20261122-0645",
- "updatedAt": "2026-11-22T06:45:15.527Z",
- "lastChangedAt": "2026-11-22T06:45:15.527Z",
+ "version": "auto-20261122-1937",
+ "updatedAt": "2026-11-22T19:37:07.577Z",
+ "lastChangedAt": "2026-11-22T19:37:07.577Z",
  "regulationCurrent": "M-C",
  "collector": {
   "schedule": "every 6 hours (GitHub Actions)",
@@ -71950,6 +71950,90 @@
    "source": {
     "name": "PokeFeed",
     "url": "https://pokefeed.app/teams/simple-beam-trick-room-team-2"
+   },
+   "firstSeen": "2026-11-22",
+   "lastSeen": "2026-11-22",
+   "dataTier": "A",
+   "regulationBasis": "source-label"
+  },
+  {
+   "code": "58AXFRTXKN",
+   "title": "MEGA CAMERUPT TRICK ROOM",
+   "creator": "ironcth",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Incineroar",
+     "item": "Passho Berry",
+     "ability": "Intimidate",
+     "moves": [
+      "Fake Out",
+      "Parting Shot",
+      "Flare Blitz",
+      "Throat Chop"
+     ]
+    },
+    {
+     "species": "Camerupt",
+     "item": "Cameruptite",
+     "ability": "Solid Rock",
+     "moves": [
+      "Earth Power",
+      "Protect",
+      "Heat Wave",
+      "Ancient Power"
+     ]
+    },
+    {
+     "species": "Kingambit",
+     "item": "Black Glasses",
+     "ability": "Defiant",
+     "moves": [
+      "Kowtow Cleave",
+      "Iron Head",
+      "Sucker Punch",
+      "Low Kick"
+     ]
+    },
+    {
+     "species": "Drampa",
+     "item": "Life Orb",
+     "ability": "Cloud Nine",
+     "moves": [
+      "Hyper Voice",
+      "Protect",
+      "Dragon Pulse",
+      "Earth Power"
+     ]
+    },
+    {
+     "species": "Farigiraf",
+     "item": "Sitrus Berry",
+     "ability": "Armor Tail",
+     "moves": [
+      "Trick Room",
+      "Psychic",
+      "Helping Hand",
+      "Protect"
+     ]
+    },
+    {
+     "species": "Sinistcha",
+     "item": "Colbur Berry",
+     "ability": "Hospitality",
+     "moves": [
+      "Matcha Gotcha",
+      "Rage Powder",
+      "Trick Room",
+      "Protect"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/mega-camerupt-trick-room"
    },
    "firstSeen": "2026-11-22",
    "lastSeen": "2026-11-22",
