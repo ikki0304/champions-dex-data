@@ -1,7 +1,7 @@
 {
- "version": "auto-20261123-0734",
- "updatedAt": "2026-11-23T07:34:32.925Z",
- "lastChangedAt": "2026-11-23T07:34:32.925Z",
+ "version": "auto-20261123-2351",
+ "updatedAt": "2026-11-23T23:51:26.472Z",
+ "lastChangedAt": "2026-11-23T23:51:26.472Z",
  "regulationCurrent": "M-C",
  "collector": {
   "schedule": "every 6 hours (GitHub Actions)",
@@ -72123,6 +72123,91 @@
    "lastSeen": "2026-11-23",
    "dataTier": "A",
    "regulationBasis": "inferred-from-submission-date"
+  },
+  {
+   "code": "53C7M2U6K4",
+   "title": "Mega Raichu Y Spotlight",
+   "creator": "Feraligamer",
+   "format": "doubles",
+   "regulation": "M-A",
+   "archetype": "Semi Room",
+   "members": [
+    {
+     "species": "Feraligatr",
+     "item": null,
+     "ability": "Sheer Force",
+     "moves": [
+      "Protect",
+      "Body Slam",
+      "Liquidation",
+      "Stomping Tantrum"
+     ]
+    },
+    {
+     "species": "Mega Raichu Y",
+     "item": "Raichunite Y",
+     "ability": "Lightning Rod",
+     "moves": [
+      "Protect",
+      "Fake Out",
+      "Focus Blast",
+      "Zap Cannon"
+     ]
+    },
+    {
+     "species": "Sneasler",
+     "item": "White Herb",
+     "ability": "Unburden",
+     "moves": [
+      "Protect",
+      "Fake Out",
+      "Dire Claw",
+      "Close Combat"
+     ]
+    },
+    {
+     "species": "Whimsicott",
+     "item": "Focus Sash",
+     "ability": "Prankster",
+     "moves": [
+      "Encore",
+      "Tailwind",
+      "Sunny Day",
+      "Moonblast"
+     ]
+    },
+    {
+     "species": "Farigiraf",
+     "item": "Sitrus Berry",
+     "ability": "Armor Tail",
+     "moves": [
+      "Protect",
+      "Psychic",
+      "Trick Room",
+      "Helping Hand"
+     ]
+    },
+    {
+     "species": "Hisuian Typhlosion",
+     "item": "Choice Scarf",
+     "ability": "Blaze",
+     "moves": [
+      "Eruption",
+      "Overheat",
+      "Heat Wave",
+      "Shadow Ball"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "ReplicaDex",
+    "url": "https://replicadex.com.br/"
+   },
+   "firstSeen": "2026-11-23",
+   "lastSeen": "2026-11-23",
+   "dataTier": "B",
+   "regulationBasis": "source-label"
   }
  ]
 }
