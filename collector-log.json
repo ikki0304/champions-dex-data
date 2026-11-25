@@ -1,6 +1,93 @@
 {
  "runs": [
   {
+   "startedAt": "2026-11-25T21:40:01.450Z",
+   "finishedAt": "2026-11-25T21:40:20.858Z",
+   "durationMs": 19371,
+   "mode": "incremental",
+   "sourcesOk": 4,
+   "sources": {
+    "OP.GG": {
+     "ok": true,
+     "candidates": 4,
+     "ms": 2556,
+     "stats": {
+      "pages": 2,
+      "builds": 20,
+      "withCodes": 4,
+      "sampleBuildsSkipped": 16,
+      "invalidCodes": 0,
+      "unmappedNames": []
+     }
+    },
+    "ReplicaDex": {
+     "ok": true,
+     "candidates": 125,
+     "ms": 555,
+     "stats": {
+      "objects": 128,
+      "teams": 125,
+      "skipped": 3,
+      "note": "ReplicaDex labels all teams M-A; label kept as published"
+     }
+    },
+    "Victory Road": {
+     "ok": true,
+     "candidates": 164,
+     "ms": 19279,
+     "stats": {
+      "pagesFetched": 12,
+      "eventPages": 11,
+      "teams": 164,
+      "pastesFetched": 3,
+      "pastesMerged": 1,
+      "pasteSpeciesMismatch": 2,
+      "mismatchSamples": [
+       {
+        "code": "X9G48T91TN",
+        "table": "basculegion|charizard|gardevoir|indeedee|sneasler|venusaur",
+        "paste": "dragonite|gengar|incineroar|rillaboom|scrafty|snorlax"
+       },
+       {
+        "code": "GMHVD1A3NJ",
+        "table": "floette|incineroar|kingambit|rillaboom|salamence|sneasler",
+        "paste": "basculegion|hisuian-arcanine|kingambit|rillaboom|salamence|sneasler"
+       }
+      ],
+      "pasteErrors": 0
+     }
+    },
+    "PokeFeed": {
+     "ok": true,
+     "candidates": 39,
+     "ms": 9733,
+     "stats": {
+      "listingPages": 4,
+      "codedTeams": 39,
+      "detailPages": 0,
+      "detailErrors": 0,
+      "seenOnly": 39
+     }
+    }
+   },
+   "totals": {
+    "before": 890,
+    "after": 890,
+    "newTeams": 0,
+    "teamsUpdated": 0,
+    "enrichedToTierA": 0,
+    "tierA": 790,
+    "tierB": 100
+   },
+   "newCodes": [],
+   "enrichedCodes": [],
+   "speciesConflicts": [],
+   "invalidCandidates": 0,
+   "speciesRenamed": 0,
+   "regulationCurrent": "M-C",
+   "warnings": []
+  },
+  {
    "startedAt": "2026-11-25T08:29:40.313Z",
    "finishedAt": "2026-11-25T08:29:59.923Z",
    "durationMs": 19589,
