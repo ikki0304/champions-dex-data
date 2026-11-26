@@ -1,6 +1,96 @@
 {
  "runs": [
   {
+   "startedAt": "2026-11-26T21:29:36.526Z",
+   "finishedAt": "2026-11-26T21:29:55.486Z",
+   "durationMs": 18940,
+   "mode": "incremental",
+   "sourcesOk": 4,
+   "sources": {
+    "OP.GG": {
+     "ok": true,
+     "candidates": 5,
+     "ms": 4541,
+     "stats": {
+      "pages": 2,
+      "builds": 20,
+      "withCodes": 5,
+      "sampleBuildsSkipped": 15,
+      "invalidCodes": 0,
+      "unmappedNames": []
+     },
+     "newTeams": 1
+    },
+    "ReplicaDex": {
+     "ok": true,
+     "candidates": 123,
+     "ms": 770,
+     "stats": {
+      "objects": 126,
+      "teams": 123,
+      "skipped": 3,
+      "note": "ReplicaDex labels all teams M-A; label kept as published"
+     }
+    },
+    "Victory Road": {
+     "ok": true,
+     "candidates": 164,
+     "ms": 18883,
+     "stats": {
+      "pagesFetched": 12,
+      "eventPages": 11,
+      "teams": 164,
+      "pastesFetched": 3,
+      "pastesMerged": 1,
+      "pasteSpeciesMismatch": 2,
+      "mismatchSamples": [
+       {
+        "code": "X9G48T91TN",
+        "table": "basculegion|charizard|gardevoir|indeedee|sneasler|venusaur",
+        "paste": "dragonite|gengar|incineroar|rillaboom|scrafty|snorlax"
+       },
+       {
+        "code": "GMHVD1A3NJ",
+        "table": "floette|incineroar|kingambit|rillaboom|salamence|sneasler",
+        "paste": "basculegion|hisuian-arcanine|kingambit|rillaboom|salamence|sneasler"
+       }
+      ],
+      "pasteErrors": 0
+     }
+    },
+    "PokeFeed": {
+     "ok": true,
+     "candidates": 39,
+     "ms": 8980,
+     "stats": {
+      "listingPages": 4,
+      "codedTeams": 39,
+      "detailPages": 0,
+      "detailErrors": 0,
+      "seenOnly": 39
+     }
+    }
+   },
+   "totals": {
+    "before": 890,
+    "after": 891,
+    "newTeams": 1,
+    "teamsUpdated": 0,
+    "enrichedToTierA": 0,
+    "tierA": 791,
+    "tierB": 100
+   },
+   "newCodes": [
+    "W6TWWQU76C"
+   ],
+   "enrichedCodes": [],
+   "speciesConflicts": [],
+   "invalidCandidates": 0,
+   "speciesRenamed": 0,
+   "regulationCurrent": "M-C",
+   "warnings": []
+  },
+  {
    "startedAt": "2026-11-26T08:14:22.964Z",
    "finishedAt": "2026-11-26T08:14:42.659Z",
    "durationMs": 19674,

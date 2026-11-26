@@ -1,7 +1,7 @@
 {
- "version": "auto-20261126-0814",
- "updatedAt": "2026-11-26T08:14:22.964Z",
- "lastChangedAt": "2026-11-26T08:14:22.964Z",
+ "version": "auto-20261126-2129",
+ "updatedAt": "2026-11-26T21:29:36.526Z",
+ "lastChangedAt": "2026-11-26T21:29:36.526Z",
  "regulationCurrent": "M-C",
  "collector": {
   "schedule": "every 6 hours (GitHub Actions)",
@@ -72293,6 +72293,90 @@
    "lastSeen": "2026-11-26",
    "dataTier": "A",
    "regulationBasis": "source-label"
+  },
+  {
+   "code": "W6TWWQU76C",
+   "title": "Singles V3",
+   "creator": "SaitoGaming",
+   "format": "singles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Gyarados",
+     "item": "Rocky Helmet",
+     "ability": "Moxie",
+     "moves": [
+      "Waterfall",
+      "Earthquake",
+      "Dragon Dance",
+      "Ice Fang"
+     ]
+    },
+    {
+     "species": "Lucario",
+     "item": "Lucarionite Z",
+     "ability": "Inner Focus",
+     "moves": [
+      "Flash Cannon",
+      "Aura Sphere",
+      "Dark Pulse",
+      "Vacuum Wave"
+     ]
+    },
+    {
+     "species": "Archaludon",
+     "item": "Leftovers",
+     "ability": "Stamina",
+     "moves": [
+      "Thunderbolt",
+      "Flash Cannon",
+      "Draco Meteor",
+      "Stealth Rock"
+     ]
+    },
+    {
+     "species": "Mimikyu",
+     "item": "Life Orb",
+     "ability": "Disguise",
+     "moves": [
+      "Play Rough",
+      "Shadow Sneak",
+      "Will-O-Wisp",
+      "Wood Hammer"
+     ]
+    },
+    {
+     "species": "Primarina",
+     "item": "Sitrus Berry",
+     "ability": "Torrent",
+     "moves": [
+      "Moonblast",
+      "Sparkling Aria",
+      "Aqua Jet",
+      "Encore"
+     ]
+    },
+    {
+     "species": "Tyranitar",
+     "item": "Tyranitarite",
+     "ability": "Sand Stream",
+     "moves": [
+      "Knock Off",
+      "Earthquake",
+      "Rock Slide",
+      "Ice Punch"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "OP.GG",
+    "url": "https://op.gg/pokemon-champions/replica-teams/W6TWWQU76C"
+   },
+   "firstSeen": "2026-11-26",
+   "lastSeen": "2026-11-26",
+   "dataTier": "A",
+   "regulationBasis": "inferred-from-submission-date"
   }
  ]
 }
