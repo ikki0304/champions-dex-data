@@ -1,7 +1,7 @@
 {
- "version": "auto-20261127-0827",
- "updatedAt": "2026-11-27T08:27:12.919Z",
- "lastChangedAt": "2026-11-27T08:27:12.919Z",
+ "version": "auto-20261127-2114",
+ "updatedAt": "2026-11-27T21:14:41.498Z",
+ "lastChangedAt": "2026-11-27T21:14:41.498Z",
  "regulationCurrent": "M-C",
  "collector": {
   "schedule": "every 6 hours (GitHub Actions)",
@@ -72628,6 +72628,90 @@
     "url": "https://pokefeed.app/teams/hisuian-inferno"
    },
    "firstSeen": "2026-11-26",
+   "lastSeen": "2026-11-27",
+   "dataTier": "A",
+   "regulationBasis": "source-label"
+  },
+  {
+   "code": "BHG0YTJRXU",
+   "title": "Winter frost",
+   "creator": "tatak",
+   "format": "doubles",
+   "regulation": "M-C",
+   "members": [
+    {
+     "species": "Froslass",
+     "item": "Froslassite",
+     "ability": "Snow Cloak",
+     "moves": [
+      "Blizzard",
+      "Protect",
+      "Shadow Ball",
+      "Aurora Veil"
+     ]
+    },
+    {
+     "species": "Baxcalibur",
+     "item": "Baxcalibrite",
+     "ability": "Thermal Exchange",
+     "moves": [
+      "Protect",
+      "Glaive Rush",
+      "Ice Shard",
+      "Icicle Crash"
+     ]
+    },
+    {
+     "species": "Mamoswine",
+     "item": "Choice Scarf",
+     "ability": "Oblivious",
+     "moves": [
+      "High Horsepower",
+      "Ice Shard",
+      "Icicle Crash",
+      "Rock Slide"
+     ]
+    },
+    {
+     "species": "Crabominable",
+     "item": "Life Orb",
+     "ability": "Hyper Cutter",
+     "moves": [
+      "Ice Hammer",
+      "Close Combat",
+      "Protect",
+      "Drain Punch"
+     ]
+    },
+    {
+     "species": "Frost Rotom",
+     "item": "Sitrus Berry",
+     "ability": "Levitate",
+     "moves": [
+      "Blizzard",
+      "Volt Switch",
+      "Thunderbolt",
+      "Electroweb"
+     ]
+    },
+    {
+     "species": "Weavile",
+     "item": "Focus Sash",
+     "ability": "Pickpocket",
+     "moves": [
+      "Fake Out",
+      "Knock Off",
+      "Triple Axel",
+      "Low Kick"
+     ]
+    }
+   ],
+   "event": null,
+   "source": {
+    "name": "PokeFeed",
+    "url": "https://pokefeed.app/teams/winter-frost"
+   },
+   "firstSeen": "2026-11-27",
    "lastSeen": "2026-11-27",
    "dataTier": "A",
    "regulationBasis": "source-label"
