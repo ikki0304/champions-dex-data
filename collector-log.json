@@ -1,6 +1,93 @@
 {
  "runs": [
   {
+   "startedAt": "2026-11-28T07:45:43.603Z",
+   "finishedAt": "2026-11-28T07:46:03.599Z",
+   "durationMs": 19964,
+   "mode": "incremental",
+   "sourcesOk": 4,
+   "sources": {
+    "OP.GG": {
+     "ok": true,
+     "candidates": 5,
+     "ms": 2796,
+     "stats": {
+      "pages": 2,
+      "builds": 20,
+      "withCodes": 5,
+      "sampleBuildsSkipped": 15,
+      "invalidCodes": 0,
+      "unmappedNames": []
+     }
+    },
+    "ReplicaDex": {
+     "ok": true,
+     "candidates": 123,
+     "ms": 1120,
+     "stats": {
+      "objects": 126,
+      "teams": 123,
+      "skipped": 3,
+      "note": "ReplicaDex labels all teams M-A; label kept as published"
+     }
+    },
+    "Victory Road": {
+     "ok": true,
+     "candidates": 164,
+     "ms": 19875,
+     "stats": {
+      "pagesFetched": 12,
+      "eventPages": 11,
+      "teams": 164,
+      "pastesFetched": 3,
+      "pastesMerged": 1,
+      "pasteSpeciesMismatch": 2,
+      "mismatchSamples": [
+       {
+        "code": "X9G48T91TN",
+        "table": "basculegion|charizard|gardevoir|indeedee|sneasler|venusaur",
+        "paste": "dragonite|gengar|incineroar|rillaboom|scrafty|snorlax"
+       },
+       {
+        "code": "GMHVD1A3NJ",
+        "table": "floette|incineroar|kingambit|rillaboom|salamence|sneasler",
+        "paste": "basculegion|hisuian-arcanine|kingambit|rillaboom|salamence|sneasler"
+       }
+      ],
+      "pasteErrors": 0
+     }
+    },
+    "PokeFeed": {
+     "ok": true,
+     "candidates": 41,
+     "ms": 10377,
+     "stats": {
+      "listingPages": 5,
+      "codedTeams": 41,
+      "detailPages": 0,
+      "detailErrors": 0,
+      "seenOnly": 41
+     }
+    }
+   },
+   "totals": {
+    "before": 895,
+    "after": 895,
+    "newTeams": 0,
+    "teamsUpdated": 320,
+    "enrichedToTierA": 0,
+    "tierA": 795,
+    "tierB": 100
+   },
+   "newCodes": [],
+   "enrichedCodes": [],
+   "speciesConflicts": [],
+   "invalidCandidates": 0,
+   "speciesRenamed": 0,
+   "regulationCurrent": "M-C",
+   "warnings": []
+  },
+  {
    "startedAt": "2026-11-27T21:14:41.499Z",
    "finishedAt": "2026-11-27T21:15:00.726Z",
    "durationMs": 19199,
